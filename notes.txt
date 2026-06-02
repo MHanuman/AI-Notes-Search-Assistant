@@ -1,0 +1,5 @@
+RAG = Retrieval Augmented Generation
+API = Application Programming Interface
+LLM = Large Language Model
+Python = Programming Language for AI
+Vector DB = Database used for Embeddings
